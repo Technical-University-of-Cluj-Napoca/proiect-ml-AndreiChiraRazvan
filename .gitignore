@@ -1,0 +1,15 @@
+.venv/
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+__pycache__/
+dist/
+build/
+
+.ipynb_checkpoints/
+
+Thumbs.db
+.DS_Store
