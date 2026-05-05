@@ -14,5 +14,6 @@ dependencies = [
     "scikit-optimize>=0.10.2",
     "seaborn>=0.13.2",
     "shap>=0.51.0",
+    "streamlit>=1.57.0",
     "xgboost>=3.2.0",
 ]
